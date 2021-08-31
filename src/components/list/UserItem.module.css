@@ -1,0 +1,11 @@
+.section {
+    border: 1px solid #007991;
+    border-radius: 0.4rem;
+    margin: 1rem 0;
+    padding: 0.5rem;
+}
+
+.section-span {
+    color: #439A86;
+    font-weight: 700;
+}
