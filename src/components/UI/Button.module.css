@@ -1,0 +1,14 @@
+.button {
+    display: block;
+    width: 40%;
+    margin: 1rem auto;
+    cursor: pointer;
+    background: #222E50;
+    color: white;
+    padding: 0.6rem;
+    transition: background-color 0.2s;
+}
+
+.button:hover {
+    background-color: #439A86;
+}
