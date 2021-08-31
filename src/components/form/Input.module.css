@@ -1,0 +1,21 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.section--label {
+    color: #007991;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.section--input {
+    border: 1px solid #007991;
+    padding: 0.4rem;
+}
+
+.invalid {
+    border-color: red;
+    background-color: salmon;
+}
